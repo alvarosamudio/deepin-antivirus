@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/deepin-clamav.svg</file>
+    </qresource>
+</RCC>

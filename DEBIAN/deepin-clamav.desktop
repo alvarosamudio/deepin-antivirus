@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Qt;System;Security;
+Comment=Graphical Interface for ClamAV
+Exec=deepin-clamav
+GenericName=deepin-clamav
+Icon=deepin-clamav
+Name=Deepin ClamAV
+Terminal=false
+Type=Application
+X-Deepin-Vendor=user-custom
+X-KDE-StartupNotify=true
