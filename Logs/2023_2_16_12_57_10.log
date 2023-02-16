@@ -1,0 +1,88 @@
+
+-------------------------------------------------------------------------------
+
+Scanning /home/ghost/WebApp/widget.cpp
+Scanning /home/ghost/WebApp/README.md
+Scanning /home/ghost/WebApp/.git/packed-refs
+Scanning /home/ghost/WebApp/.git/logs/refs/heads/main
+Scanning /home/ghost/WebApp/.git/logs/refs/remotes/origin/HEAD
+Scanning /home/ghost/WebApp/.git/logs/HEAD
+Scanning /home/ghost/WebApp/.git/index
+Scanning /home/ghost/WebApp/.git/description
+Scanning /home/ghost/WebApp/.git/config
+Scanning /home/ghost/WebApp/.git/refs/heads/main
+Scanning /home/ghost/WebApp/.git/refs/remotes/origin/HEAD
+Scanning /home/ghost/WebApp/.git/objects/pack/pack-79e630cb4b22a3e862403ddbe3ba68ff9e549c28.idx
+Scanning /home/ghost/WebApp/.git/objects/pack/pack-79e630cb4b22a3e862403ddbe3ba68ff9e549c28.pack
+Scanning /home/ghost/WebApp/.git/info/exclude
+Scanning /home/ghost/WebApp/.git/HEAD
+Scanning /home/ghost/WebApp/.git/hooks/pre-rebase.sample
+Scanning /home/ghost/WebApp/.git/hooks/pre-push.sample
+Scanning /home/ghost/WebApp/.git/hooks/push-to-checkout.sample
+Scanning /home/ghost/WebApp/.git/hooks/update.sample
+Scanning /home/ghost/WebApp/.git/hooks/pre-applypatch.sample
+Scanning /home/ghost/WebApp/.git/hooks/pre-receive.sample
+Scanning /home/ghost/WebApp/.git/hooks/fsmonitor-watchman.sample
+Scanning /home/ghost/WebApp/.git/hooks/post-update.sample
+Scanning /home/ghost/WebApp/.git/hooks/pre-commit.sample
+Scanning /home/ghost/WebApp/.git/hooks/commit-msg.sample
+Scanning /home/ghost/WebApp/.git/hooks/pre-merge-commit.sample
+Scanning /home/ghost/WebApp/.git/hooks/applypatch-msg.sample
+Scanning /home/ghost/WebApp/.git/hooks/prepare-commit-msg.sample
+Scanning /home/ghost/WebApp/translations/WebApp_es_ES.qm
+Scanning /home/ghost/WebApp/translations/WebApp_zh_CN.ts
+Scanning /home/ghost/WebApp/translations/WebApp_zh_CN.qm
+Scanning /home/ghost/WebApp/translations/WebApp_es_ES.ts
+Scanning /home/ghost/WebApp/WebApp.pro.user.c16c031.4.9-pre1
+Scanning /home/ghost/WebApp/globaldefine.h
+Scanning /home/ghost/WebApp/httplib.h
+Scanning /home/ghost/WebApp/imgs.qrc
+Scanning /home/ghost/WebApp/webenginepage.cpp
+Scanning /home/ghost/WebApp/httpd.h
+Scanning /home/ghost/WebApp/LICENSE
+Scanning /home/ghost/WebApp/widget.h
+Scanning /home/ghost/WebApp/webenginepage.h
+Scanning /home/ghost/WebApp/widget.ui
+Scanning /home/ghost/WebApp/mainwindow.h
+Scanning /home/ghost/WebApp/doc/IMG/WebApp-Example.png
+Scanning /home/ghost/WebApp/build/ui_widget.h
+Scanning /home/ghost/WebApp/build/moc_mainwindow.o
+Scanning /home/ghost/WebApp/build/moc_widget.o
+Scanning /home/ghost/WebApp/build/qrc_imgs.cpp
+Scanning /home/ghost/WebApp/build/main.o
+Scanning /home/ghost/WebApp/build/httpd.o
+Scanning /home/ghost/WebApp/build/moc_predefs.h
+Scanning /home/ghost/WebApp/build/qrc_imgs.o
+Scanning /home/ghost/WebApp/build/WebApp
+Scanning /home/ghost/WebApp/build/moc_widget.cpp
+Scanning /home/ghost/WebApp/build/moc_mainwindow.cpp
+Scanning /home/ghost/WebApp/build/mainwindow.o
+Scanning /home/ghost/WebApp/build/widget.o
+Scanning /home/ghost/WebApp/build/moc_httpd.o
+Scanning /home/ghost/WebApp/build/moc_httpd.cpp
+Scanning /home/ghost/WebApp/build/Makefile
+Scanning /home/ghost/WebApp/build/webenginepage.o
+Scanning /home/ghost/WebApp/build/.qmake.stash
+Scanning /home/ghost/WebApp/httpd.cpp
+Scanning /home/ghost/WebApp/main.cpp
+Scanning /home/ghost/WebApp/WebApp.pro
+Scanning /home/ghost/WebApp/mainwindow.cpp
+Scanning /home/ghost/WebApp/help/help.html
+Scanning /home/ghost/WebApp/WebApp.pro.user
+Scanning /home/ghost/WebApp/images/go-next-24.svg
+Scanning /home/ghost/WebApp/images/logo.svg
+Scanning /home/ghost/WebApp/images/view-refresh.svg
+Scanning /home/ghost/WebApp/images/Logo-Racoon.png
+Scanning /home/ghost/WebApp/images/go-previous-24.svg
+
+----------- SCAN SUMMARY -----------
+Known viruses: 8652920
+Engine version: 0.103.6
+Scanned directories: 24
+Scanned files: 73
+Infected files: 0
+Data scanned: 6.35 MB
+Data read: 3.98 MB (ratio 1.60:1)
+Time: 20.055 sec (0 m 20 s)
+Start Date: 2023:02:16 12:57:10
+End Date:   2023:02:16 12:57:30
